@@ -40,7 +40,7 @@ s = Son()
 s.bike()
 s.laptop()
 
-# multilevel inheritance
+
 
 # Multilevel Inheritance
 
