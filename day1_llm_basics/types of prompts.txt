@@ -1,0 +1,33 @@
+
+ Zero-Shot Prompting
+ --------------------------
+
+The AI is asked to perform a task without examples.
+
+Example: "Write a short paragraph about Artificial Intelligence."
+
+ One-Shot Prompting
+ ------------------------
+
+The AI is given one example before performing the task.
+
+Example: Input: Apple → Fruit Input: Carrot → Vegetable Input: Mango → ?
+
+Output: Fruit
+
+Few-Shot Prompting
+-----------------------
+
+The AI is given multiple examples.
+
+Example: Dog → Animal Rose → Flower Laptop → Electronic Device Tiger → ?
+
+Output: Animal
+
+
+Role-Based Prompting
+------------------------
+
+The AI is assigned a role.
+
+Example: "Act as a teacher and explain machine learning in simple words."

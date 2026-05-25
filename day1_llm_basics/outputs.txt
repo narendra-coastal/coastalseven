@@ -1,0 +1,19 @@
+example zero short prompt
+--------------------------
+"నువ్వు ఎలా ఉన్నావు?"
+
+example One-Shot Prompting
+----------------------------
+Dear Sir, I would like to request permission to work from home today due to personal reasons.
+
+example Few-Shot Prompting-
+---------------------------------
+Category: Sports
+
+Role-Based Prompting example
+--------------------------------
+1. Tell me about yourself.  
+2. What programming languages do you know?  
+3. Explain a project you worked on.  
+4. How do you solve coding problems?  
+5. Why do you want this job?

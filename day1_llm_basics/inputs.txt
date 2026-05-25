@@ -1,0 +1,39 @@
+example zero short prompt
+---------------------------
+Translate this English sentence into Telugu:
+
+"How are you?"
+
+example One-Shot Prompting
+------------------------------
+Example:
+Input: Leave request for one day
+Output: Dear Sir, I would like to request leave for one day due to personal reasons.
+
+Now write:
+Input: Request for work from home
+
+example Few-Shot Prompting
+---------------------------------
+Classify the category.
+
+Example 1:
+Sentence: "The match was exciting."
+Category: Sports
+
+Example 2:
+Sentence: "The stock market increased today."
+Category: Finance
+
+Example 3:
+Sentence: "New AI tools are being developed."
+Category: Technology
+
+Now classify:
+Sentence: "The team won the cricket tournament."
+
+Role-Based Prompting example
+--------------------------------
+You are an HR interviewer.
+
+Ask me 5 interview questions for a software developer position.-
